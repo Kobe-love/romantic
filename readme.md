@@ -7,7 +7,7 @@
 ### 快速预览
 访问[这个网站](http://lingyouhuiquanla.com/lover/)  国内网站
 
-或者访问[github.io网站](https://newnewking.github.io/SmallRomance/)
+或者访问[github.io网站](https://kobe-love.github.io/romantic/)
 
 
 ### 开发者调试
