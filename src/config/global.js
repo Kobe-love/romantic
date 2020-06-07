@@ -57,6 +57,8 @@ const config = (function(){
 		dialogue:[
 			{type:6, name:'男子', txt:'过去的已经过去，请放下芥蒂'},
 			{type:2, name:'女子', txt:'我努力去放下'},
+			{type:6, name:'男子', txt:'希望我们两都能多关心彼此，体谅彼此，懂得分享'},
+			{type:2, name:'女子', txt:'我会更好地和你分享我的点滴'},
 			{type:6, name:'男子', txt:'好的，谢谢理解，我们去放烟花吧！'},
 			{type:2, name:'女子', txt:'天还这么亮，现在放烟花也不好看。'},
 			{type:2, name:'女子', txt:'再说你那有烟花吗？'},

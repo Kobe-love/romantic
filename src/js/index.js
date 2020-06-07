@@ -51,11 +51,12 @@ import TitleParticle from './TitleParticle'
 
 			document.addEventListener("WeixinJSBridgeReady", function () { 
 				audio.play(); 
-			}, false);
+			}, true);
 
 
 			music.onclick = function(){
 				const cla =  this.getAttribute('class');
+				console.log("cla", cla)
 				if(cla == 'on'){
 					this.setAttribute('class', 'off');
 					audio.pause();
